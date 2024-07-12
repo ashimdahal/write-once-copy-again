@@ -1,0 +1,25 @@
+[GPU0] Epoch 0 | Batchsize: 512 | Steps: 118
+Epoch 0 | Training snapshot saved at model_snapshots/lenetcnn
+[1 / 10] epoch/s, training loss is 1.7632 validation loss is 0.9791, validation accuracy is 0.8495 
+[GPU0] Epoch 1 | Batchsize: 512 | Steps: 118
+[2 / 10] epoch/s, training loss is 0.4381 validation loss is 0.2400, validation accuracy is 0.9350 
+[GPU0] Epoch 2 | Batchsize: 512 | Steps: 118
+Epoch 2 | Training snapshot saved at model_snapshots/lenetcnn
+[3 / 10] epoch/s, training loss is 0.2161 validation loss is 0.1685, validation accuracy is 0.9516 
+[GPU0] Epoch 3 | Batchsize: 512 | Steps: 118
+[4 / 10] epoch/s, training loss is 0.1628 validation loss is 0.1305, validation accuracy is 0.9632 
+[GPU0] Epoch 4 | Batchsize: 512 | Steps: 118
+Epoch 4 | Training snapshot saved at model_snapshots/lenetcnn
+[5 / 10] epoch/s, training loss is 0.1343 validation loss is 0.1097, validation accuracy is 0.9695 
+[GPU0] Epoch 5 | Batchsize: 512 | Steps: 118
+[6 / 10] epoch/s, training loss is 0.1143 validation loss is 0.0940, validation accuracy is 0.9727 
+[GPU0] Epoch 6 | Batchsize: 512 | Steps: 118
+Epoch 6 | Training snapshot saved at model_snapshots/lenetcnn
+[7 / 10] epoch/s, training loss is 0.1020 validation loss is 0.0888, validation accuracy is 0.9737 
+[GPU0] Epoch 7 | Batchsize: 512 | Steps: 118
+[8 / 10] epoch/s, training loss is 0.0924 validation loss is 0.0789, validation accuracy is 0.9771 
+[GPU0] Epoch 8 | Batchsize: 512 | Steps: 118
+Epoch 8 | Training snapshot saved at model_snapshots/lenetcnn
+[9 / 10] epoch/s, training loss is 0.0843 validation loss is 0.0689, validation accuracy is 0.9796 
+[GPU0] Epoch 9 | Batchsize: 512 | Steps: 118
+[10 / 10] epoch/s, training loss is 0.0777 validation loss is 0.0642, validation accuracy is 0.9809 
