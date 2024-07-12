@@ -5,8 +5,8 @@
 #SBATCH --ntasks=1
 #SBATCH --gres=gpu:p100:2
 #SBATCH --time=24:00:00
-#SBATCH --output=outputcnn.log
-#SBATCH --error=errorcnn.log
+#SBATCH --output=logs/outputcnn.log
+#SBATCH --error=logs/errorcnn.log
 
 # Load necessary modules or activate virtual environment
 module load cuda-toolkit/11.6.2
